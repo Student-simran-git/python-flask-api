@@ -31,3 +31,8 @@ Screenshots included:
 
 Conclusion:
 API works correctly. CRUD operations demonstrated using terminal (curl). Server run: http://127.0.0.1:5000
+![GET Before]()
+![POST Add]()
+![GET After]()
+![Update or Delete]()
+
