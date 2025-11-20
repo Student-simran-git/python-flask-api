@@ -30,10 +30,12 @@ Screenshots included:
 - 04_put_update.png (or 04_delete.png)
 
 Conclusion:
-API works correctly. CRUD operations demonstrated using terminal (curl). Server run: http://127.0.0.1:5000
+API works correctly. CRUD operations demonstrated using terminal (curl). Server run: http://127.0.0.1:5000 
+
+------ SCREENSHOT IMAGES ----------
 ![GET Before](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/01_get_before.png)
 ![POST Add](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/02_post_add.png)
 ![GET After](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/03_get_after.png)
 ![Delete](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/04_delete.png)
-![Update]()
+![put Update](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/04_put_update.png)
 
