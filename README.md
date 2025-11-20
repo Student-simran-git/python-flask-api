@@ -33,6 +33,6 @@ Conclusion:
 API works correctly. CRUD operations demonstrated using terminal (curl). Server run: http://127.0.0.1:5000
 ![GET Before](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/01_get_before.png)
 ![POST Add](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/02_post_add.png)
-![GET After]()
+![GET After](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/03_get_after.png)
 ![Update or Delete]()
 
