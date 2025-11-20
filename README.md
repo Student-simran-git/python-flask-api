@@ -34,5 +34,6 @@ API works correctly. CRUD operations demonstrated using terminal (curl). Server 
 ![GET Before](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/01_get_before.png)
 ![POST Add](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/02_post_add.png)
 ![GET After](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/03_get_after.png)
-![Update or Delete]()
+![Delete](https://raw.githubusercontent.com/Student-simran-git/python-flask-api/4c46afae071420d667cb93d2306f82ea8df461c5/04_delete.png)
+![Update]()
 
